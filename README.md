@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Fouad 👋
 
-<!--
-**FuadMinshawi/FuadMinshawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | BIM Developer | Revit API Developer
 
-Here are some ideas to get you started:
+I build software for the AEC industry, combining software engineering
+with structural engineering and BIM.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies
+
+- C#
+- .NET
+- Revit API
+- WPF
+- MVVM
+- JavaScript / Node.js
+- Git & GitHub
+
+## 🚀 Current Focus
+
+- Revit API development
+- BIM automation
+- AEC software development
+- Backend development
+- DevOps
+
+## 📌 Featured Project
+
+### SchedSync
+
+A Revit add-in for exporting and importing schedules between Revit
+and Excel.
+
+## 📫 Connect with me
+
+- LinkedIn
+- GitHub
+- Email
