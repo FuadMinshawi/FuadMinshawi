@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Fouad 👋</h1>
-<h3 align="center">Software Engineer | BIM Developer | Revit API Developer</h3>
+<h3 align="center">Software Engineer | BIM Developer</h3>
 
 <p align="center">
 I build software for the AEC industry — combining software engineering with structural engineering and BIM to automate and streamline how design data moves between tools.
