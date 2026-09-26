@@ -28,6 +28,6 @@ I build software for the AEC industry — combining software engineering with st
 - ⚙️ Backend development
 - 🔁 DevOps
 
-### 📫 Let's Connect
 
-Feel free to reach out or check out my pinned repositories below.
+
+
